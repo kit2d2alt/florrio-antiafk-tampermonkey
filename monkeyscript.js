@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Click "I'm here" Button
+// @name         florio anti-afk
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Automatically click the "I'm here" button with Ubuntu weight 700
-// @author       Your Name
+// @description  anti-afk
+// @author       me
 // @match        https://florr.io/*
 // @grant        none
 // ==/UserScript==
